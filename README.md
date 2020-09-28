@@ -3,3 +3,4 @@ This is a C program that simulates Turing Machines described in a text file. As 
 ## Dev log
 * 9/28/2020
     * Began development
+    * Added `Makefile`, running `make` will compile the source code with all of the proper flags
